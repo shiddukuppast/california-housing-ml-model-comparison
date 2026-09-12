@@ -199,7 +199,6 @@ R²	                0.853805                    0.685654
 Based on these experiments, XGBoost performed significantly better than the ANN on this particular dataset.
 
 This does not imply that XGBoost is always better than neural networks for every tabular dataset. The result is specific to the dataset, preprocessing, features, and model configurations used in this project.
-```text
 
 
 🚀 Key Learning Outcomes
